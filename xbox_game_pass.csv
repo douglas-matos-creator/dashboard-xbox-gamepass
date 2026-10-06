@@ -1,0 +1,1001 @@
+ID_Utilizador,Plano,Mensalidade,Horas_Jogadas_Mes,Dispositivo_Principal,Status
+XBOX-1000,Console Game Pass,10.99,27.7,PC,Cancelado
+XBOX-1001,Ultimate,14.99,5.0,PC,Ativo
+XBOX-1002,Ultimate,14.99,30.7,PC,Cancelado
+XBOX-1003,Console Game Pass,10.99,34.2,PC,Cancelado
+XBOX-1004,PC Game Pass,9.99,33.4,PC,Ativo
+XBOX-1005,PC Game Pass,9.99,41.2,Cloud Gaming,Cancelado
+XBOX-1006,PC Game Pass,9.99,37.5,Xbox One,Ativo
+XBOX-1007,Ultimate,14.99,31.9,Xbox Series X/S,Ativo
+XBOX-1008,Ultimate,14.99,23.9,Cloud Gaming,Ativo
+XBOX-1009,Ultimate,14.99,0.1,Xbox One,Cancelado
+XBOX-1010,PC Game Pass,9.99,31.4,PC,Ativo
+XBOX-1011,Ultimate,14.99,28.1,Xbox One,Ativo
+XBOX-1012,Ultimate,14.99,29.1,Xbox One,Cancelado
+XBOX-1013,PC Game Pass,9.99,5.8,PC,Ativo
+XBOX-1014,PC Game Pass,9.99,8.8,PC,Cancelado
+XBOX-1015,PC Game Pass,9.99,40.8,PC,Ativo
+XBOX-1016,Console Game Pass,10.99,24.4,Xbox Series X/S,Cancelado
+XBOX-1017,Console Game Pass,10.99,35.2,PC,Cancelado
+XBOX-1018,Console Game Pass,10.99,25.4,Xbox Series X/S,Ativo
+XBOX-1019,PC Game Pass,9.99,25.4,PC,Cancelado
+XBOX-1020,Ultimate,14.99,39.1,Xbox Series X/S,Ativo
+XBOX-1021,PC Game Pass,9.99,17.3,Xbox One,Ativo
+XBOX-1022,PC Game Pass,9.99,26.4,Cloud Gaming,Ativo
+XBOX-1023,Console Game Pass,10.99,18.1,Xbox One,Ativo
+XBOX-1024,Console Game Pass,10.99,18.5,Xbox One,Ativo
+XBOX-1025,Ultimate,14.99,20.4,PC,Ativo
+XBOX-1026,PC Game Pass,9.99,28.3,Xbox Series X/S,Ativo
+XBOX-1027,Console Game Pass,10.99,17.8,Cloud Gaming,Ativo
+XBOX-1028,Console Game Pass,10.99,43.8,PC,Ativo
+XBOX-1029,PC Game Pass,9.99,11.6,PC,Ativo
+XBOX-1030,Ultimate,14.99,22.2,PC,Ativo
+XBOX-1031,PC Game Pass,9.99,18.4,Xbox One,Ativo
+XBOX-1032,PC Game Pass,9.99,46.7,Xbox Series X/S,Ativo
+XBOX-1033,Ultimate,14.99,27.9,Xbox Series X/S,Ativo
+XBOX-1034,Ultimate,14.99,40.5,Cloud Gaming,Ativo
+XBOX-1035,Ultimate,14.99,2.7,Xbox Series X/S,Ativo
+XBOX-1036,Console Game Pass,10.99,29.0,Xbox Series X/S,Ativo
+XBOX-1037,PC Game Pass,9.99,38.3,PC,Ativo
+XBOX-1038,Ultimate,14.99,26.2,PC,Ativo
+XBOX-1039,Console Game Pass,10.99,41.0,Xbox One,Ativo
+XBOX-1040,PC Game Pass,9.99,17.2,PC,Ativo
+XBOX-1041,Console Game Pass,10.99,46.1,PC,Ativo
+XBOX-1042,PC Game Pass,9.99,59.5,PC,Ativo
+XBOX-1043,Ultimate,14.99,19.6,PC,Ativo
+XBOX-1044,PC Game Pass,9.99,18.3,Xbox One,Ativo
+XBOX-1045,Ultimate,14.99,46.8,PC,Ativo
+XBOX-1046,Console Game Pass,10.99,48.7,Cloud Gaming,Ativo
+XBOX-1047,Console Game Pass,10.99,17.2,Cloud Gaming,Ativo
+XBOX-1048,Console Game Pass,10.99,18.7,Cloud Gaming,Ativo
+XBOX-1049,PC Game Pass,9.99,20.8,Cloud Gaming,Cancelado
+XBOX-1050,Ultimate,14.99,4.8,PC,Cancelado
+XBOX-1051,Ultimate,14.99,11.2,Cloud Gaming,Ativo
+XBOX-1052,Ultimate,14.99,9.9,PC,Cancelado
+XBOX-1053,Ultimate,14.99,13.5,Xbox One,Ativo
+XBOX-1054,Console Game Pass,10.99,24.5,Cloud Gaming,Ativo
+XBOX-1055,Ultimate,14.99,28.5,Xbox Series X/S,Ativo
+XBOX-1056,PC Game Pass,9.99,48.3,Cloud Gaming,Ativo
+XBOX-1057,PC Game Pass,9.99,10.0,Cloud Gaming,Cancelado
+XBOX-1058,PC Game Pass,9.99,39.8,PC,Ativo
+XBOX-1059,Console Game Pass,10.99,21.8,Cloud Gaming,Ativo
+XBOX-1060,Console Game Pass,10.99,24.3,Xbox Series X/S,Ativo
+XBOX-1061,PC Game Pass,9.99,35.1,PC,Ativo
+XBOX-1062,Ultimate,14.99,8.2,PC,Cancelado
+XBOX-1063,Console Game Pass,10.99,30.7,Xbox One,Ativo
+XBOX-1064,PC Game Pass,9.99,27.5,Xbox One,Ativo
+XBOX-1065,Console Game Pass,10.99,32.4,Cloud Gaming,Ativo
+XBOX-1066,PC Game Pass,9.99,29.3,Xbox One,Ativo
+XBOX-1067,Ultimate,14.99,61.8,Xbox One,Ativo
+XBOX-1068,PC Game Pass,9.99,15.4,Xbox One,Ativo
+XBOX-1069,Ultimate,14.99,17.0,PC,Ativo
+XBOX-1070,Ultimate,14.99,15.7,PC,Ativo
+XBOX-1071,PC Game Pass,9.99,16.7,PC,Ativo
+XBOX-1072,PC Game Pass,9.99,15.4,Xbox One,Ativo
+XBOX-1073,Ultimate,14.99,42.8,PC,Ativo
+XBOX-1074,Ultimate,14.99,46.3,Xbox One,Ativo
+XBOX-1075,Ultimate,14.99,16.4,PC,Ativo
+XBOX-1076,Ultimate,14.99,12.5,PC,Cancelado
+XBOX-1077,PC Game Pass,9.99,32.1,Xbox Series X/S,Ativo
+XBOX-1078,Console Game Pass,10.99,16.7,Cloud Gaming,Ativo
+XBOX-1079,PC Game Pass,9.99,34.5,Xbox One,Ativo
+XBOX-1080,Ultimate,14.99,28.0,Xbox Series X/S,Ativo
+XBOX-1081,Ultimate,14.99,2.3,PC,Cancelado
+XBOX-1082,Console Game Pass,10.99,48.2,Xbox One,Ativo
+XBOX-1083,PC Game Pass,9.99,51.9,PC,Ativo
+XBOX-1084,Console Game Pass,10.99,15.8,Cloud Gaming,Cancelado
+XBOX-1085,Console Game Pass,10.99,19.2,Xbox Series X/S,Cancelado
+XBOX-1086,Ultimate,14.99,29.3,Cloud Gaming,Ativo
+XBOX-1087,Ultimate,14.99,30.0,Xbox Series X/S,Ativo
+XBOX-1088,Ultimate,14.99,34.9,PC,Ativo
+XBOX-1089,Console Game Pass,10.99,55.2,Cloud Gaming,Ativo
+XBOX-1090,PC Game Pass,9.99,22.3,Cloud Gaming,Ativo
+XBOX-1091,Ultimate,14.99,13.0,PC,Ativo
+XBOX-1092,Ultimate,14.99,4.3,Cloud Gaming,Cancelado
+XBOX-1093,Console Game Pass,10.99,14.0,Xbox One,Ativo
+XBOX-1094,Ultimate,14.99,24.5,Xbox Series X/S,Ativo
+XBOX-1095,Console Game Pass,10.99,51.9,Xbox Series X/S,Ativo
+XBOX-1096,Console Game Pass,10.99,17.2,Xbox Series X/S,Ativo
+XBOX-1097,Console Game Pass,10.99,28.4,Xbox One,Ativo
+XBOX-1098,PC Game Pass,9.99,24.8,Xbox Series X/S,Ativo
+XBOX-1099,PC Game Pass,9.99,42.8,PC,Ativo
+XBOX-1100,PC Game Pass,9.99,62.9,Cloud Gaming,Ativo
+XBOX-1101,Ultimate,14.99,17.0,Xbox One,Ativo
+XBOX-1102,Console Game Pass,10.99,17.7,Xbox Series X/S,Cancelado
+XBOX-1103,Console Game Pass,10.99,40.7,PC,Ativo
+XBOX-1104,Ultimate,14.99,35.2,Cloud Gaming,Ativo
+XBOX-1105,PC Game Pass,9.99,52.7,Cloud Gaming,Ativo
+XBOX-1106,Console Game Pass,10.99,33.8,Xbox One,Ativo
+XBOX-1107,Ultimate,14.99,19.6,Xbox One,Ativo
+XBOX-1108,PC Game Pass,9.99,33.9,Xbox One,Ativo
+XBOX-1109,PC Game Pass,9.99,41.6,PC,Ativo
+XBOX-1110,PC Game Pass,9.99,37.3,PC,Ativo
+XBOX-1111,PC Game Pass,9.99,32.6,Xbox One,Ativo
+XBOX-1112,Ultimate,14.99,41.0,Xbox Series X/S,Ativo
+XBOX-1113,Ultimate,14.99,42.5,Cloud Gaming,Ativo
+XBOX-1114,Ultimate,14.99,45.7,Cloud Gaming,Ativo
+XBOX-1115,Ultimate,14.99,34.7,PC,Ativo
+XBOX-1116,Ultimate,14.99,22.5,Cloud Gaming,Ativo
+XBOX-1117,PC Game Pass,9.99,27.2,Xbox Series X/S,Ativo
+XBOX-1118,Ultimate,14.99,43.1,Cloud Gaming,Ativo
+XBOX-1119,Console Game Pass,10.99,12.7,PC,Ativo
+XBOX-1120,Ultimate,14.99,30.5,PC,Cancelado
+XBOX-1121,Ultimate,14.99,19.1,Xbox Series X/S,Ativo
+XBOX-1122,Console Game Pass,10.99,25.4,Xbox Series X/S,Ativo
+XBOX-1123,PC Game Pass,9.99,44.2,Cloud Gaming,Ativo
+XBOX-1124,PC Game Pass,9.99,27.9,Cloud Gaming,Ativo
+XBOX-1125,Console Game Pass,10.99,25.7,PC,Ativo
+XBOX-1126,Ultimate,14.99,4.6,Xbox Series X/S,Cancelado
+XBOX-1127,Ultimate,14.99,36.2,Xbox Series X/S,Cancelado
+XBOX-1128,PC Game Pass,9.99,34.7,Xbox Series X/S,Ativo
+XBOX-1129,Console Game Pass,10.99,57.4,Cloud Gaming,Ativo
+XBOX-1130,Console Game Pass,10.99,20.4,Xbox Series X/S,Ativo
+XBOX-1131,PC Game Pass,9.99,28.3,PC,Ativo
+XBOX-1132,PC Game Pass,9.99,28.7,PC,Ativo
+XBOX-1133,Console Game Pass,10.99,48.7,Cloud Gaming,Ativo
+XBOX-1134,Ultimate,14.99,23.6,Xbox One,Ativo
+XBOX-1135,Console Game Pass,10.99,29.2,Cloud Gaming,Ativo
+XBOX-1136,Console Game Pass,10.99,34.1,Xbox One,Ativo
+XBOX-1137,Ultimate,14.99,27.8,Xbox Series X/S,Ativo
+XBOX-1138,Console Game Pass,10.99,18.3,Cloud Gaming,Ativo
+XBOX-1139,Ultimate,14.99,27.9,PC,Ativo
+XBOX-1140,Ultimate,14.99,41.1,Xbox Series X/S,Ativo
+XBOX-1141,PC Game Pass,9.99,9.6,PC,Cancelado
+XBOX-1142,Console Game Pass,10.99,27.0,Xbox Series X/S,Ativo
+XBOX-1143,Console Game Pass,10.99,14.5,Cloud Gaming,Ativo
+XBOX-1144,PC Game Pass,9.99,42.9,Xbox One,Ativo
+XBOX-1145,PC Game Pass,9.99,2.2,Xbox Series X/S,Cancelado
+XBOX-1146,Ultimate,14.99,16.6,Xbox One,Ativo
+XBOX-1147,Console Game Pass,10.99,30.7,Xbox Series X/S,Ativo
+XBOX-1148,PC Game Pass,9.99,48.5,PC,Ativo
+XBOX-1149,PC Game Pass,9.99,24.0,PC,Ativo
+XBOX-1150,Ultimate,14.99,16.7,Xbox Series X/S,Ativo
+XBOX-1151,PC Game Pass,9.99,53.2,Xbox One,Ativo
+XBOX-1152,PC Game Pass,9.99,3.3,Cloud Gaming,Cancelado
+XBOX-1153,Console Game Pass,10.99,0.0,Cloud Gaming,Ativo
+XBOX-1154,Ultimate,14.99,31.6,PC,Ativo
+XBOX-1155,PC Game Pass,9.99,17.5,Cloud Gaming,Ativo
+XBOX-1156,Ultimate,14.99,9.7,PC,Ativo
+XBOX-1157,Ultimate,14.99,35.6,Cloud Gaming,Ativo
+XBOX-1158,PC Game Pass,9.99,28.7,Xbox Series X/S,Ativo
+XBOX-1159,Ultimate,14.99,16.5,PC,Ativo
+XBOX-1160,Console Game Pass,10.99,5.8,PC,Cancelado
+XBOX-1161,Ultimate,14.99,38.1,Xbox Series X/S,Ativo
+XBOX-1162,Ultimate,14.99,34.8,PC,Ativo
+XBOX-1163,Console Game Pass,10.99,23.5,Cloud Gaming,Cancelado
+XBOX-1164,PC Game Pass,9.99,52.7,Cloud Gaming,Ativo
+XBOX-1165,Ultimate,14.99,8.9,PC,Cancelado
+XBOX-1166,Console Game Pass,10.99,2.1,Cloud Gaming,Cancelado
+XBOX-1167,PC Game Pass,9.99,14.6,Xbox One,Ativo
+XBOX-1168,PC Game Pass,9.99,24.3,PC,Cancelado
+XBOX-1169,Console Game Pass,10.99,28.7,Xbox Series X/S,Ativo
+XBOX-1170,Ultimate,14.99,21.4,Xbox One,Ativo
+XBOX-1171,PC Game Pass,9.99,30.3,PC,Ativo
+XBOX-1172,Console Game Pass,10.99,6.2,Xbox Series X/S,Ativo
+XBOX-1173,PC Game Pass,9.99,46.7,Cloud Gaming,Ativo
+XBOX-1174,Ultimate,14.99,23.8,Xbox Series X/S,Ativo
+XBOX-1175,PC Game Pass,9.99,41.8,Xbox One,Ativo
+XBOX-1176,Ultimate,14.99,30.1,Cloud Gaming,Ativo
+XBOX-1177,Console Game Pass,10.99,31.9,PC,Cancelado
+XBOX-1178,Ultimate,14.99,33.5,Cloud Gaming,Ativo
+XBOX-1179,PC Game Pass,9.99,31.7,PC,Ativo
+XBOX-1180,Console Game Pass,10.99,34.6,PC,Ativo
+XBOX-1181,PC Game Pass,9.99,44.9,Xbox Series X/S,Ativo
+XBOX-1182,Ultimate,14.99,27.9,Xbox Series X/S,Ativo
+XBOX-1183,Ultimate,14.99,35.6,Xbox Series X/S,Ativo
+XBOX-1184,PC Game Pass,9.99,23.7,Xbox One,Ativo
+XBOX-1185,Ultimate,14.99,46.6,Xbox One,Ativo
+XBOX-1186,Ultimate,14.99,14.9,Xbox Series X/S,Ativo
+XBOX-1187,Console Game Pass,10.99,52.0,Xbox One,Ativo
+XBOX-1188,Console Game Pass,10.99,24.4,Cloud Gaming,Ativo
+XBOX-1189,PC Game Pass,9.99,3.5,Cloud Gaming,Ativo
+XBOX-1190,PC Game Pass,9.99,26.9,Xbox One,Ativo
+XBOX-1191,Ultimate,14.99,14.8,Xbox One,Ativo
+XBOX-1192,Ultimate,14.99,37.6,Cloud Gaming,Ativo
+XBOX-1193,Ultimate,14.99,15.2,PC,Cancelado
+XBOX-1194,Console Game Pass,10.99,18.3,Cloud Gaming,Ativo
+XBOX-1195,Console Game Pass,10.99,0.0,Cloud Gaming,Ativo
+XBOX-1196,Ultimate,14.99,18.2,Xbox One,Ativo
+XBOX-1197,Ultimate,14.99,0.0,Cloud Gaming,Cancelado
+XBOX-1198,Ultimate,14.99,1.2,Xbox One,Cancelado
+XBOX-1199,Ultimate,14.99,36.4,Xbox One,Cancelado
+XBOX-1200,Ultimate,14.99,36.8,Xbox Series X/S,Ativo
+XBOX-1201,PC Game Pass,9.99,31.4,Cloud Gaming,Ativo
+XBOX-1202,PC Game Pass,9.99,10.5,PC,Ativo
+XBOX-1203,Ultimate,14.99,24.3,Xbox Series X/S,Cancelado
+XBOX-1204,Ultimate,14.99,24.9,Xbox One,Ativo
+XBOX-1205,PC Game Pass,9.99,7.6,Xbox One,Cancelado
+XBOX-1206,PC Game Pass,9.99,47.6,PC,Ativo
+XBOX-1207,Ultimate,14.99,38.2,Xbox One,Ativo
+XBOX-1208,PC Game Pass,9.99,21.7,Cloud Gaming,Ativo
+XBOX-1209,PC Game Pass,9.99,25.4,Xbox Series X/S,Ativo
+XBOX-1210,Console Game Pass,10.99,28.1,Xbox One,Ativo
+XBOX-1211,Ultimate,14.99,0.0,Xbox One,Ativo
+XBOX-1212,Ultimate,14.99,21.3,PC,Ativo
+XBOX-1213,PC Game Pass,9.99,14.8,Cloud Gaming,Cancelado
+XBOX-1214,Ultimate,14.99,10.0,Xbox One,Ativo
+XBOX-1215,PC Game Pass,9.99,20.8,PC,Ativo
+XBOX-1216,Console Game Pass,10.99,52.0,Xbox One,Ativo
+XBOX-1217,Ultimate,14.99,34.6,PC,Ativo
+XBOX-1218,Ultimate,14.99,16.4,PC,Ativo
+XBOX-1219,Ultimate,14.99,33.6,Cloud Gaming,Ativo
+XBOX-1220,Ultimate,14.99,46.0,Xbox One,Ativo
+XBOX-1221,Console Game Pass,10.99,38.9,Cloud Gaming,Ativo
+XBOX-1222,PC Game Pass,9.99,25.9,PC,Ativo
+XBOX-1223,Console Game Pass,10.99,15.3,Xbox Series X/S,Ativo
+XBOX-1224,PC Game Pass,9.99,35.5,Xbox One,Ativo
+XBOX-1225,PC Game Pass,9.99,30.9,Xbox Series X/S,Ativo
+XBOX-1226,Ultimate,14.99,38.4,Xbox One,Ativo
+XBOX-1227,Console Game Pass,10.99,34.5,Cloud Gaming,Ativo
+XBOX-1228,Ultimate,14.99,40.7,Cloud Gaming,Ativo
+XBOX-1229,Ultimate,14.99,17.0,Cloud Gaming,Ativo
+XBOX-1230,Ultimate,14.99,44.8,Cloud Gaming,Ativo
+XBOX-1231,Console Game Pass,10.99,28.0,Cloud Gaming,Ativo
+XBOX-1232,Console Game Pass,10.99,56.1,Xbox Series X/S,Ativo
+XBOX-1233,Console Game Pass,10.99,14.7,Cloud Gaming,Ativo
+XBOX-1234,PC Game Pass,9.99,51.0,PC,Ativo
+XBOX-1235,Ultimate,14.99,28.0,PC,Ativo
+XBOX-1236,PC Game Pass,9.99,15.2,Xbox Series X/S,Ativo
+XBOX-1237,PC Game Pass,9.99,17.7,Xbox One,Ativo
+XBOX-1238,Ultimate,14.99,20.2,PC,Ativo
+XBOX-1239,PC Game Pass,9.99,31.4,Xbox One,Ativo
+XBOX-1240,Ultimate,14.99,32.8,Xbox Series X/S,Ativo
+XBOX-1241,Ultimate,14.99,16.4,Xbox One,Ativo
+XBOX-1242,Ultimate,14.99,24.6,Xbox One,Ativo
+XBOX-1243,Console Game Pass,10.99,57.1,Xbox One,Ativo
+XBOX-1244,PC Game Pass,9.99,50.9,Xbox One,Ativo
+XBOX-1245,Ultimate,14.99,31.5,Xbox Series X/S,Ativo
+XBOX-1246,Console Game Pass,10.99,25.6,PC,Ativo
+XBOX-1247,Ultimate,14.99,26.8,Cloud Gaming,Ativo
+XBOX-1248,Ultimate,14.99,34.2,Xbox One,Ativo
+XBOX-1249,Ultimate,14.99,9.7,PC,Ativo
+XBOX-1250,PC Game Pass,9.99,21.1,PC,Ativo
+XBOX-1251,Console Game Pass,10.99,-0.0,Xbox Series X/S,Cancelado
+XBOX-1252,Ultimate,14.99,31.0,PC,Ativo
+XBOX-1253,Console Game Pass,10.99,34.7,Xbox Series X/S,Ativo
+XBOX-1254,PC Game Pass,9.99,17.8,Xbox One,Ativo
+XBOX-1255,Console Game Pass,10.99,48.6,Xbox One,Cancelado
+XBOX-1256,Ultimate,14.99,6.6,Cloud Gaming,Ativo
+XBOX-1257,Ultimate,14.99,3.0,Cloud Gaming,Cancelado
+XBOX-1258,Console Game Pass,10.99,28.4,Cloud Gaming,Ativo
+XBOX-1259,PC Game Pass,9.99,40.7,PC,Ativo
+XBOX-1260,Ultimate,14.99,50.3,Xbox One,Ativo
+XBOX-1261,Ultimate,14.99,18.1,Xbox Series X/S,Ativo
+XBOX-1262,PC Game Pass,9.99,41.2,Cloud Gaming,Ativo
+XBOX-1263,Console Game Pass,10.99,24.4,Xbox Series X/S,Ativo
+XBOX-1264,Ultimate,14.99,22.4,Xbox Series X/S,Ativo
+XBOX-1265,Ultimate,14.99,38.3,Cloud Gaming,Ativo
+XBOX-1266,Ultimate,14.99,34.8,Xbox One,Ativo
+XBOX-1267,Ultimate,14.99,1.4,Cloud Gaming,Ativo
+XBOX-1268,Console Game Pass,10.99,47.1,Xbox Series X/S,Ativo
+XBOX-1269,PC Game Pass,9.99,45.7,Cloud Gaming,Cancelado
+XBOX-1270,Ultimate,14.99,15.6,Xbox Series X/S,Ativo
+XBOX-1271,Ultimate,14.99,30.9,Xbox Series X/S,Ativo
+XBOX-1272,Ultimate,14.99,32.4,Cloud Gaming,Ativo
+XBOX-1273,Ultimate,14.99,28.9,PC,Cancelado
+XBOX-1274,Console Game Pass,10.99,16.7,Cloud Gaming,Ativo
+XBOX-1275,Console Game Pass,10.99,14.9,PC,Ativo
+XBOX-1276,Ultimate,14.99,24.6,Xbox Series X/S,Ativo
+XBOX-1277,Ultimate,14.99,42.6,Xbox Series X/S,Ativo
+XBOX-1278,Ultimate,14.99,33.2,PC,Ativo
+XBOX-1279,Ultimate,14.99,19.4,Xbox Series X/S,Ativo
+XBOX-1280,Ultimate,14.99,36.6,PC,Ativo
+XBOX-1281,Console Game Pass,10.99,0.0,PC,Cancelado
+XBOX-1282,Console Game Pass,10.99,42.2,Xbox Series X/S,Ativo
+XBOX-1283,PC Game Pass,9.99,0.0,Xbox One,Cancelado
+XBOX-1284,Console Game Pass,10.99,19.6,PC,Ativo
+XBOX-1285,PC Game Pass,9.99,8.2,Cloud Gaming,Cancelado
+XBOX-1286,Console Game Pass,10.99,5.6,Cloud Gaming,Ativo
+XBOX-1287,Console Game Pass,10.99,42.4,Xbox Series X/S,Ativo
+XBOX-1288,PC Game Pass,9.99,18.0,Xbox One,Ativo
+XBOX-1289,Console Game Pass,10.99,30.2,Xbox Series X/S,Ativo
+XBOX-1290,PC Game Pass,9.99,24.3,Xbox One,Cancelado
+XBOX-1291,PC Game Pass,9.99,32.2,PC,Ativo
+XBOX-1292,Ultimate,14.99,26.2,PC,Ativo
+XBOX-1293,Console Game Pass,10.99,5.8,PC,Cancelado
+XBOX-1294,PC Game Pass,9.99,39.9,PC,Ativo
+XBOX-1295,Console Game Pass,10.99,17.6,Cloud Gaming,Cancelado
+XBOX-1296,Ultimate,14.99,1.7,Cloud Gaming,Ativo
+XBOX-1297,PC Game Pass,9.99,18.6,Xbox Series X/S,Ativo
+XBOX-1298,Ultimate,14.99,47.5,Xbox One,Ativo
+XBOX-1299,PC Game Pass,9.99,37.8,PC,Ativo
+XBOX-1300,PC Game Pass,9.99,19.8,PC,Ativo
+XBOX-1301,Console Game Pass,10.99,19.8,Xbox One,Ativo
+XBOX-1302,Console Game Pass,10.99,20.2,Xbox One,Ativo
+XBOX-1303,Ultimate,14.99,56.2,Xbox Series X/S,Ativo
+XBOX-1304,Ultimate,14.99,30.7,Xbox One,Ativo
+XBOX-1305,Ultimate,14.99,31.5,PC,Cancelado
+XBOX-1306,Console Game Pass,10.99,40.5,PC,Ativo
+XBOX-1307,Console Game Pass,10.99,28.6,PC,Ativo
+XBOX-1308,Ultimate,14.99,21.1,PC,Ativo
+XBOX-1309,PC Game Pass,9.99,22.1,PC,Ativo
+XBOX-1310,Console Game Pass,10.99,23.9,Xbox Series X/S,Cancelado
+XBOX-1311,PC Game Pass,9.99,24.4,PC,Ativo
+XBOX-1312,PC Game Pass,9.99,35.9,Xbox Series X/S,Ativo
+XBOX-1313,Ultimate,14.99,25.8,PC,Ativo
+XBOX-1314,Ultimate,14.99,36.0,Cloud Gaming,Ativo
+XBOX-1315,Ultimate,14.99,23.8,Cloud Gaming,Ativo
+XBOX-1316,Console Game Pass,10.99,26.2,Cloud Gaming,Ativo
+XBOX-1317,PC Game Pass,9.99,0.0,Cloud Gaming,Cancelado
+XBOX-1318,PC Game Pass,9.99,38.7,Xbox Series X/S,Ativo
+XBOX-1319,PC Game Pass,9.99,30.2,Xbox Series X/S,Ativo
+XBOX-1320,Console Game Pass,10.99,40.0,Xbox One,Ativo
+XBOX-1321,Ultimate,14.99,0.0,PC,Ativo
+XBOX-1322,Ultimate,14.99,56.3,Cloud Gaming,Ativo
+XBOX-1323,PC Game Pass,9.99,22.9,Xbox Series X/S,Ativo
+XBOX-1324,Ultimate,14.99,41.6,PC,Ativo
+XBOX-1325,Ultimate,14.99,9.4,PC,Ativo
+XBOX-1326,Console Game Pass,10.99,34.2,Xbox Series X/S,Ativo
+XBOX-1327,Ultimate,14.99,9.2,Cloud Gaming,Ativo
+XBOX-1328,Console Game Pass,10.99,15.6,Xbox One,Ativo
+XBOX-1329,PC Game Pass,9.99,53.7,PC,Ativo
+XBOX-1330,Console Game Pass,10.99,22.1,Xbox One,Ativo
+XBOX-1331,Ultimate,14.99,28.3,Cloud Gaming,Ativo
+XBOX-1332,PC Game Pass,9.99,38.1,Cloud Gaming,Ativo
+XBOX-1333,PC Game Pass,9.99,32.4,Xbox One,Ativo
+XBOX-1334,PC Game Pass,9.99,27.3,Cloud Gaming,Ativo
+XBOX-1335,PC Game Pass,9.99,30.5,PC,Ativo
+XBOX-1336,Ultimate,14.99,61.1,Xbox One,Ativo
+XBOX-1337,Ultimate,14.99,24.1,Cloud Gaming,Ativo
+XBOX-1338,Console Game Pass,10.99,28.0,Xbox One,Ativo
+XBOX-1339,PC Game Pass,9.99,40.8,PC,Ativo
+XBOX-1340,Console Game Pass,10.99,41.6,Cloud Gaming,Ativo
+XBOX-1341,Console Game Pass,10.99,42.8,PC,Ativo
+XBOX-1342,PC Game Pass,9.99,34.6,Cloud Gaming,Cancelado
+XBOX-1343,Console Game Pass,10.99,7.9,Xbox Series X/S,Cancelado
+XBOX-1344,Console Game Pass,10.99,49.5,Cloud Gaming,Ativo
+XBOX-1345,Ultimate,14.99,7.8,Xbox One,Cancelado
+XBOX-1346,Ultimate,14.99,29.5,Cloud Gaming,Ativo
+XBOX-1347,PC Game Pass,9.99,13.7,PC,Ativo
+XBOX-1348,Console Game Pass,10.99,24.0,PC,Ativo
+XBOX-1349,Ultimate,14.99,29.9,Cloud Gaming,Ativo
+XBOX-1350,Console Game Pass,10.99,29.8,Xbox One,Ativo
+XBOX-1351,Ultimate,14.99,31.3,Xbox Series X/S,Ativo
+XBOX-1352,Ultimate,14.99,49.2,Xbox One,Ativo
+XBOX-1353,PC Game Pass,9.99,31.8,Xbox Series X/S,Ativo
+XBOX-1354,PC Game Pass,9.99,21.3,PC,Ativo
+XBOX-1355,Ultimate,14.99,39.5,Xbox One,Ativo
+XBOX-1356,PC Game Pass,9.99,42.8,Xbox Series X/S,Ativo
+XBOX-1357,Console Game Pass,10.99,6.6,Cloud Gaming,Cancelado
+XBOX-1358,Ultimate,14.99,34.0,PC,Ativo
+XBOX-1359,Console Game Pass,10.99,35.5,Cloud Gaming,Ativo
+XBOX-1360,Console Game Pass,10.99,20.5,PC,Cancelado
+XBOX-1361,Ultimate,14.99,45.6,Xbox One,Ativo
+XBOX-1362,Console Game Pass,10.99,22.7,Xbox One,Ativo
+XBOX-1363,Console Game Pass,10.99,26.9,PC,Ativo
+XBOX-1364,Ultimate,14.99,22.4,PC,Ativo
+XBOX-1365,Console Game Pass,10.99,25.2,PC,Ativo
+XBOX-1366,Ultimate,14.99,8.6,Xbox One,Cancelado
+XBOX-1367,Ultimate,14.99,3.4,Xbox Series X/S,Cancelado
+XBOX-1368,PC Game Pass,9.99,48.9,Cloud Gaming,Ativo
+XBOX-1369,PC Game Pass,9.99,12.3,Cloud Gaming,Ativo
+XBOX-1370,PC Game Pass,9.99,10.1,Xbox One,Cancelado
+XBOX-1371,PC Game Pass,9.99,0.0,Cloud Gaming,Ativo
+XBOX-1372,PC Game Pass,9.99,15.4,PC,Cancelado
+XBOX-1373,Ultimate,14.99,5.2,Xbox Series X/S,Ativo
+XBOX-1374,PC Game Pass,9.99,49.6,Cloud Gaming,Ativo
+XBOX-1375,Console Game Pass,10.99,40.1,Xbox Series X/S,Ativo
+XBOX-1376,Ultimate,14.99,14.7,PC,Ativo
+XBOX-1377,PC Game Pass,9.99,58.8,Cloud Gaming,Ativo
+XBOX-1378,Ultimate,14.99,39.7,Xbox One,Ativo
+XBOX-1379,PC Game Pass,9.99,20.1,Xbox Series X/S,Ativo
+XBOX-1380,PC Game Pass,9.99,0.0,PC,Cancelado
+XBOX-1381,Ultimate,14.99,59.4,Xbox Series X/S,Ativo
+XBOX-1382,Ultimate,14.99,4.2,Cloud Gaming,Cancelado
+XBOX-1383,Ultimate,14.99,0.3,Cloud Gaming,Cancelado
+XBOX-1384,Ultimate,14.99,40.3,Xbox One,Ativo
+XBOX-1385,Ultimate,14.99,61.6,PC,Ativo
+XBOX-1386,PC Game Pass,9.99,45.8,PC,Ativo
+XBOX-1387,PC Game Pass,9.99,33.5,Xbox One,Ativo
+XBOX-1388,Ultimate,14.99,33.9,Xbox One,Ativo
+XBOX-1389,Ultimate,14.99,37.8,PC,Ativo
+XBOX-1390,Ultimate,14.99,36.4,Xbox Series X/S,Ativo
+XBOX-1391,Console Game Pass,10.99,29.2,Xbox Series X/S,Ativo
+XBOX-1392,Console Game Pass,10.99,26.6,Xbox One,Ativo
+XBOX-1393,Ultimate,14.99,24.1,Xbox Series X/S,Ativo
+XBOX-1394,Console Game Pass,10.99,13.7,PC,Ativo
+XBOX-1395,Ultimate,14.99,20.8,Cloud Gaming,Ativo
+XBOX-1396,Ultimate,14.99,0.0,Cloud Gaming,Ativo
+XBOX-1397,Console Game Pass,10.99,23.5,Xbox Series X/S,Ativo
+XBOX-1398,Ultimate,14.99,10.2,Xbox One,Ativo
+XBOX-1399,Ultimate,14.99,8.4,Xbox One,Cancelado
+XBOX-1400,PC Game Pass,9.99,27.7,Xbox One,Ativo
+XBOX-1401,Ultimate,14.99,45.9,Xbox One,Ativo
+XBOX-1402,Console Game Pass,10.99,38.8,Xbox One,Ativo
+XBOX-1403,Ultimate,14.99,1.4,Xbox Series X/S,Cancelado
+XBOX-1404,Console Game Pass,10.99,10.2,Cloud Gaming,Ativo
+XBOX-1405,Ultimate,14.99,39.1,Cloud Gaming,Ativo
+XBOX-1406,Console Game Pass,10.99,10.3,Xbox Series X/S,Cancelado
+XBOX-1407,PC Game Pass,9.99,21.6,Xbox One,Ativo
+XBOX-1408,Ultimate,14.99,33.3,Xbox Series X/S,Ativo
+XBOX-1409,PC Game Pass,9.99,10.5,Cloud Gaming,Ativo
+XBOX-1410,Console Game Pass,10.99,26.6,PC,Ativo
+XBOX-1411,Ultimate,14.99,5.0,Xbox Series X/S,Cancelado
+XBOX-1412,Ultimate,14.99,16.0,Xbox One,Ativo
+XBOX-1413,Console Game Pass,10.99,29.8,Cloud Gaming,Ativo
+XBOX-1414,Ultimate,14.99,1.1,Cloud Gaming,Cancelado
+XBOX-1415,Console Game Pass,10.99,31.6,Cloud Gaming,Ativo
+XBOX-1416,PC Game Pass,9.99,24.7,Cloud Gaming,Ativo
+XBOX-1417,Console Game Pass,10.99,33.3,Xbox One,Ativo
+XBOX-1418,Ultimate,14.99,28.4,PC,Ativo
+XBOX-1419,Ultimate,14.99,45.5,Cloud Gaming,Ativo
+XBOX-1420,Ultimate,14.99,26.9,Xbox Series X/S,Ativo
+XBOX-1421,Ultimate,14.99,18.6,PC,Ativo
+XBOX-1422,PC Game Pass,9.99,26.8,Cloud Gaming,Ativo
+XBOX-1423,Console Game Pass,10.99,33.1,PC,Ativo
+XBOX-1424,PC Game Pass,9.99,25.7,Xbox Series X/S,Ativo
+XBOX-1425,Console Game Pass,10.99,25.6,Cloud Gaming,Ativo
+XBOX-1426,Console Game Pass,10.99,14.5,Xbox Series X/S,Ativo
+XBOX-1427,Ultimate,14.99,15.1,Xbox One,Ativo
+XBOX-1428,Console Game Pass,10.99,4.0,Cloud Gaming,Ativo
+XBOX-1429,PC Game Pass,9.99,51.2,Cloud Gaming,Ativo
+XBOX-1430,PC Game Pass,9.99,6.3,Cloud Gaming,Ativo
+XBOX-1431,Ultimate,14.99,14.6,Cloud Gaming,Ativo
+XBOX-1432,Ultimate,14.99,14.2,Xbox One,Ativo
+XBOX-1433,PC Game Pass,9.99,38.4,Cloud Gaming,Ativo
+XBOX-1434,PC Game Pass,9.99,20.6,PC,Ativo
+XBOX-1435,Ultimate,14.99,43.7,Cloud Gaming,Ativo
+XBOX-1436,PC Game Pass,9.99,14.9,Xbox One,Ativo
+XBOX-1437,Ultimate,14.99,29.2,Cloud Gaming,Ativo
+XBOX-1438,Ultimate,14.99,12.5,PC,Ativo
+XBOX-1439,PC Game Pass,9.99,57.2,Xbox One,Ativo
+XBOX-1440,PC Game Pass,9.99,7.2,Xbox One,Ativo
+XBOX-1441,Ultimate,14.99,29.6,PC,Ativo
+XBOX-1442,Console Game Pass,10.99,34.5,PC,Ativo
+XBOX-1443,Console Game Pass,10.99,31.2,PC,Ativo
+XBOX-1444,Ultimate,14.99,22.2,PC,Ativo
+XBOX-1445,Ultimate,14.99,23.1,PC,Ativo
+XBOX-1446,Ultimate,14.99,25.7,Xbox One,Ativo
+XBOX-1447,Ultimate,14.99,22.8,Xbox One,Ativo
+XBOX-1448,Console Game Pass,10.99,39.5,Cloud Gaming,Ativo
+XBOX-1449,PC Game Pass,9.99,58.2,Cloud Gaming,Ativo
+XBOX-1450,Ultimate,14.99,16.6,Xbox Series X/S,Ativo
+XBOX-1451,Console Game Pass,10.99,4.5,Cloud Gaming,Cancelado
+XBOX-1452,Console Game Pass,10.99,23.7,Cloud Gaming,Ativo
+XBOX-1453,Ultimate,14.99,63.7,PC,Ativo
+XBOX-1454,PC Game Pass,9.99,12.9,PC,Ativo
+XBOX-1455,Console Game Pass,10.99,49.6,Cloud Gaming,Ativo
+XBOX-1456,PC Game Pass,9.99,50.2,Xbox Series X/S,Ativo
+XBOX-1457,Console Game Pass,10.99,16.7,PC,Ativo
+XBOX-1458,PC Game Pass,9.99,33.5,Cloud Gaming,Ativo
+XBOX-1459,PC Game Pass,9.99,49.4,Cloud Gaming,Ativo
+XBOX-1460,PC Game Pass,9.99,19.3,Xbox One,Ativo
+XBOX-1461,Ultimate,14.99,21.9,Xbox Series X/S,Ativo
+XBOX-1462,Ultimate,14.99,16.3,Xbox One,Cancelado
+XBOX-1463,Console Game Pass,10.99,9.8,Xbox Series X/S,Cancelado
+XBOX-1464,Ultimate,14.99,15.3,PC,Ativo
+XBOX-1465,Console Game Pass,10.99,6.6,Xbox Series X/S,Ativo
+XBOX-1466,PC Game Pass,9.99,25.5,Cloud Gaming,Ativo
+XBOX-1467,Ultimate,14.99,13.5,Cloud Gaming,Ativo
+XBOX-1468,PC Game Pass,9.99,28.5,Xbox Series X/S,Ativo
+XBOX-1469,Ultimate,14.99,1.7,Xbox Series X/S,Ativo
+XBOX-1470,PC Game Pass,9.99,30.0,Xbox Series X/S,Ativo
+XBOX-1471,Ultimate,14.99,37.5,Xbox One,Ativo
+XBOX-1472,PC Game Pass,9.99,0.0,Xbox Series X/S,Ativo
+XBOX-1473,Ultimate,14.99,30.6,PC,Ativo
+XBOX-1474,Console Game Pass,10.99,43.4,Xbox One,Ativo
+XBOX-1475,Ultimate,14.99,6.9,Xbox One,Cancelado
+XBOX-1476,PC Game Pass,9.99,50.1,Xbox Series X/S,Ativo
+XBOX-1477,Console Game Pass,10.99,31.3,PC,Ativo
+XBOX-1478,Ultimate,14.99,14.4,Xbox One,Ativo
+XBOX-1479,Console Game Pass,10.99,24.2,Cloud Gaming,Ativo
+XBOX-1480,Ultimate,14.99,33.4,Xbox One,Ativo
+XBOX-1481,Ultimate,14.99,26.1,Xbox Series X/S,Ativo
+XBOX-1482,Console Game Pass,10.99,33.1,PC,Ativo
+XBOX-1483,Ultimate,14.99,11.2,Xbox Series X/S,Ativo
+XBOX-1484,Console Game Pass,10.99,27.5,Cloud Gaming,Ativo
+XBOX-1485,Ultimate,14.99,3.8,Cloud Gaming,Ativo
+XBOX-1486,PC Game Pass,9.99,23.3,Cloud Gaming,Ativo
+XBOX-1487,PC Game Pass,9.99,11.4,Xbox Series X/S,Ativo
+XBOX-1488,Ultimate,14.99,14.0,Xbox One,Cancelado
+XBOX-1489,Ultimate,14.99,43.5,Xbox Series X/S,Ativo
+XBOX-1490,Console Game Pass,10.99,41.4,PC,Ativo
+XBOX-1491,Ultimate,14.99,34.1,Xbox One,Ativo
+XBOX-1492,PC Game Pass,9.99,8.6,Cloud Gaming,Ativo
+XBOX-1493,PC Game Pass,9.99,20.3,Xbox Series X/S,Ativo
+XBOX-1494,Console Game Pass,10.99,43.2,Cloud Gaming,Ativo
+XBOX-1495,Console Game Pass,10.99,27.1,Cloud Gaming,Ativo
+XBOX-1496,Console Game Pass,10.99,59.8,PC,Ativo
+XBOX-1497,PC Game Pass,9.99,30.9,Xbox One,Ativo
+XBOX-1498,Ultimate,14.99,27.9,PC,Ativo
+XBOX-1499,Ultimate,14.99,20.4,PC,Ativo
+XBOX-1500,Ultimate,14.99,27.0,PC,Ativo
+XBOX-1501,Console Game Pass,10.99,22.7,Cloud Gaming,Cancelado
+XBOX-1502,Console Game Pass,10.99,35.6,PC,Ativo
+XBOX-1503,Ultimate,14.99,39.4,PC,Ativo
+XBOX-1504,Ultimate,14.99,13.2,Xbox One,Ativo
+XBOX-1505,PC Game Pass,9.99,5.0,Xbox One,Cancelado
+XBOX-1506,Ultimate,14.99,0.0,PC,Ativo
+XBOX-1507,Ultimate,14.99,32.6,Xbox One,Ativo
+XBOX-1508,Ultimate,14.99,8.4,Xbox One,Cancelado
+XBOX-1509,Ultimate,14.99,0.0,PC,Ativo
+XBOX-1510,Ultimate,14.99,30.8,Cloud Gaming,Ativo
+XBOX-1511,Console Game Pass,10.99,62.4,PC,Ativo
+XBOX-1512,Ultimate,14.99,24.9,Xbox One,Ativo
+XBOX-1513,Ultimate,14.99,37.6,Cloud Gaming,Ativo
+XBOX-1514,PC Game Pass,9.99,26.2,Xbox Series X/S,Ativo
+XBOX-1515,PC Game Pass,9.99,23.5,Cloud Gaming,Cancelado
+XBOX-1516,Console Game Pass,10.99,38.8,Xbox One,Ativo
+XBOX-1517,Ultimate,14.99,20.6,Cloud Gaming,Ativo
+XBOX-1518,Ultimate,14.99,29.0,PC,Ativo
+XBOX-1519,PC Game Pass,9.99,29.8,Xbox Series X/S,Ativo
+XBOX-1520,Console Game Pass,10.99,15.0,Xbox Series X/S,Ativo
+XBOX-1521,Console Game Pass,10.99,39.9,Xbox Series X/S,Ativo
+XBOX-1522,Ultimate,14.99,22.4,Xbox One,Ativo
+XBOX-1523,Ultimate,14.99,13.7,Xbox One,Ativo
+XBOX-1524,Ultimate,14.99,33.0,Xbox Series X/S,Ativo
+XBOX-1525,Console Game Pass,10.99,11.5,Cloud Gaming,Ativo
+XBOX-1526,Console Game Pass,10.99,25.4,Xbox Series X/S,Ativo
+XBOX-1527,PC Game Pass,9.99,24.9,Cloud Gaming,Ativo
+XBOX-1528,PC Game Pass,9.99,41.3,Cloud Gaming,Ativo
+XBOX-1529,Ultimate,14.99,32.1,Xbox One,Ativo
+XBOX-1530,Ultimate,14.99,24.6,Cloud Gaming,Ativo
+XBOX-1531,Ultimate,14.99,37.3,Xbox Series X/S,Ativo
+XBOX-1532,Ultimate,14.99,45.9,Xbox One,Ativo
+XBOX-1533,Console Game Pass,10.99,33.4,PC,Ativo
+XBOX-1534,Ultimate,14.99,25.2,PC,Ativo
+XBOX-1535,Ultimate,14.99,5.3,Xbox One,Ativo
+XBOX-1536,Ultimate,14.99,9.0,Xbox Series X/S,Cancelado
+XBOX-1537,PC Game Pass,9.99,20.4,PC,Ativo
+XBOX-1538,Console Game Pass,10.99,15.9,PC,Ativo
+XBOX-1539,PC Game Pass,9.99,22.2,Cloud Gaming,Ativo
+XBOX-1540,Ultimate,14.99,25.8,Cloud Gaming,Ativo
+XBOX-1541,Ultimate,14.99,32.9,Xbox Series X/S,Ativo
+XBOX-1542,PC Game Pass,9.99,23.9,Xbox One,Ativo
+XBOX-1543,Ultimate,14.99,32.3,Xbox Series X/S,Ativo
+XBOX-1544,Ultimate,14.99,26.0,Xbox One,Ativo
+XBOX-1545,Console Game Pass,10.99,0.0,PC,Cancelado
+XBOX-1546,PC Game Pass,9.99,10.9,Cloud Gaming,Ativo
+XBOX-1547,Ultimate,14.99,22.8,Xbox Series X/S,Ativo
+XBOX-1548,Console Game Pass,10.99,6.9,Xbox Series X/S,Cancelado
+XBOX-1549,Ultimate,14.99,34.0,Xbox One,Ativo
+XBOX-1550,Console Game Pass,10.99,48.0,Xbox One,Ativo
+XBOX-1551,Ultimate,14.99,43.3,Xbox Series X/S,Ativo
+XBOX-1552,Console Game Pass,10.99,21.8,Xbox One,Ativo
+XBOX-1553,Console Game Pass,10.99,47.4,Xbox Series X/S,Ativo
+XBOX-1554,Ultimate,14.99,27.2,Xbox Series X/S,Ativo
+XBOX-1555,Console Game Pass,10.99,19.9,Xbox Series X/S,Ativo
+XBOX-1556,PC Game Pass,9.99,15.8,PC,Ativo
+XBOX-1557,PC Game Pass,9.99,20.5,Xbox One,Ativo
+XBOX-1558,Ultimate,14.99,19.2,Cloud Gaming,Ativo
+XBOX-1559,Ultimate,14.99,27.6,Cloud Gaming,Ativo
+XBOX-1560,Ultimate,14.99,27.4,Xbox One,Ativo
+XBOX-1561,PC Game Pass,9.99,25.0,Xbox Series X/S,Ativo
+XBOX-1562,PC Game Pass,9.99,31.6,Cloud Gaming,Ativo
+XBOX-1563,PC Game Pass,9.99,42.9,Cloud Gaming,Ativo
+XBOX-1564,Console Game Pass,10.99,39.2,Xbox One,Ativo
+XBOX-1565,Console Game Pass,10.99,2.7,Cloud Gaming,Cancelado
+XBOX-1566,Console Game Pass,10.99,0.0,Xbox Series X/S,Cancelado
+XBOX-1567,Console Game Pass,10.99,39.0,Xbox One,Ativo
+XBOX-1568,Ultimate,14.99,4.5,Xbox Series X/S,Ativo
+XBOX-1569,Console Game Pass,10.99,21.6,Cloud Gaming,Ativo
+XBOX-1570,Console Game Pass,10.99,7.4,Cloud Gaming,Cancelado
+XBOX-1571,Ultimate,14.99,0.0,Xbox Series X/S,Ativo
+XBOX-1572,Console Game Pass,10.99,33.1,PC,Ativo
+XBOX-1573,Ultimate,14.99,36.4,Cloud Gaming,Ativo
+XBOX-1574,Ultimate,14.99,16.4,PC,Ativo
+XBOX-1575,Ultimate,14.99,0.0,Cloud Gaming,Ativo
+XBOX-1576,PC Game Pass,9.99,16.8,PC,Ativo
+XBOX-1577,Ultimate,14.99,30.9,PC,Ativo
+XBOX-1578,Console Game Pass,10.99,2.8,PC,Cancelado
+XBOX-1579,PC Game Pass,9.99,27.8,Xbox Series X/S,Ativo
+XBOX-1580,Console Game Pass,10.99,24.8,PC,Ativo
+XBOX-1581,Ultimate,14.99,33.7,PC,Ativo
+XBOX-1582,Console Game Pass,10.99,26.8,PC,Ativo
+XBOX-1583,Console Game Pass,10.99,10.4,Cloud Gaming,Ativo
+XBOX-1584,Ultimate,14.99,42.9,PC,Ativo
+XBOX-1585,PC Game Pass,9.99,22.6,Cloud Gaming,Ativo
+XBOX-1586,PC Game Pass,9.99,24.6,PC,Ativo
+XBOX-1587,PC Game Pass,9.99,11.0,PC,Ativo
+XBOX-1588,PC Game Pass,9.99,18.4,Xbox Series X/S,Cancelado
+XBOX-1589,PC Game Pass,9.99,11.7,Cloud Gaming,Ativo
+XBOX-1590,PC Game Pass,9.99,22.4,PC,Ativo
+XBOX-1591,Ultimate,14.99,50.7,Cloud Gaming,Ativo
+XBOX-1592,PC Game Pass,9.99,4.4,Cloud Gaming,Ativo
+XBOX-1593,Console Game Pass,10.99,0.8,Xbox One,Cancelado
+XBOX-1594,Ultimate,14.99,47.1,Xbox Series X/S,Ativo
+XBOX-1595,Console Game Pass,10.99,21.9,Xbox Series X/S,Ativo
+XBOX-1596,Ultimate,14.99,15.0,Xbox Series X/S,Ativo
+XBOX-1597,PC Game Pass,9.99,40.6,Xbox One,Ativo
+XBOX-1598,PC Game Pass,9.99,15.9,Xbox One,Ativo
+XBOX-1599,PC Game Pass,9.99,52.4,Xbox Series X/S,Ativo
+XBOX-1600,PC Game Pass,9.99,35.2,Xbox One,Ativo
+XBOX-1601,PC Game Pass,9.99,17.7,Xbox One,Ativo
+XBOX-1602,PC Game Pass,9.99,57.4,Xbox One,Ativo
+XBOX-1603,PC Game Pass,9.99,15.9,Xbox Series X/S,Ativo
+XBOX-1604,PC Game Pass,9.99,36.1,Xbox Series X/S,Ativo
+XBOX-1605,Console Game Pass,10.99,29.5,Xbox Series X/S,Ativo
+XBOX-1606,PC Game Pass,9.99,44.5,Xbox One,Ativo
+XBOX-1607,Console Game Pass,10.99,48.4,Xbox Series X/S,Ativo
+XBOX-1608,Console Game Pass,10.99,25.5,Xbox One,Ativo
+XBOX-1609,Ultimate,14.99,13.7,PC,Cancelado
+XBOX-1610,PC Game Pass,9.99,31.9,Xbox One,Ativo
+XBOX-1611,Ultimate,14.99,14.8,Cloud Gaming,Cancelado
+XBOX-1612,Ultimate,14.99,55.2,Xbox Series X/S,Ativo
+XBOX-1613,PC Game Pass,9.99,27.0,Xbox Series X/S,Ativo
+XBOX-1614,Ultimate,14.99,19.5,Cloud Gaming,Ativo
+XBOX-1615,Ultimate,14.99,27.8,Xbox One,Ativo
+XBOX-1616,PC Game Pass,9.99,4.8,PC,Cancelado
+XBOX-1617,PC Game Pass,9.99,10.4,Cloud Gaming,Ativo
+XBOX-1618,Ultimate,14.99,43.0,Cloud Gaming,Ativo
+XBOX-1619,Ultimate,14.99,15.1,Xbox One,Cancelado
+XBOX-1620,PC Game Pass,9.99,9.3,Xbox Series X/S,Cancelado
+XBOX-1621,PC Game Pass,9.99,33.0,Xbox One,Cancelado
+XBOX-1622,Console Game Pass,10.99,42.8,Cloud Gaming,Ativo
+XBOX-1623,Console Game Pass,10.99,35.8,Cloud Gaming,Ativo
+XBOX-1624,Ultimate,14.99,39.9,Xbox Series X/S,Ativo
+XBOX-1625,Console Game Pass,10.99,13.6,Xbox Series X/S,Ativo
+XBOX-1626,Console Game Pass,10.99,3.7,Xbox Series X/S,Ativo
+XBOX-1627,Ultimate,14.99,47.5,Xbox One,Ativo
+XBOX-1628,PC Game Pass,9.99,20.2,Xbox Series X/S,Ativo
+XBOX-1629,PC Game Pass,9.99,21.2,Cloud Gaming,Ativo
+XBOX-1630,Ultimate,14.99,44.9,Cloud Gaming,Ativo
+XBOX-1631,Ultimate,14.99,33.3,PC,Ativo
+XBOX-1632,Console Game Pass,10.99,31.8,Xbox One,Ativo
+XBOX-1633,Console Game Pass,10.99,57.5,PC,Ativo
+XBOX-1634,PC Game Pass,9.99,15.3,Cloud Gaming,Ativo
+XBOX-1635,Console Game Pass,10.99,38.9,PC,Ativo
+XBOX-1636,Console Game Pass,10.99,25.9,Cloud Gaming,Ativo
+XBOX-1637,PC Game Pass,9.99,29.0,PC,Ativo
+XBOX-1638,PC Game Pass,9.99,47.9,Xbox Series X/S,Ativo
+XBOX-1639,Console Game Pass,10.99,32.6,PC,Ativo
+XBOX-1640,PC Game Pass,9.99,33.1,Xbox Series X/S,Ativo
+XBOX-1641,Console Game Pass,10.99,41.1,Xbox Series X/S,Ativo
+XBOX-1642,PC Game Pass,9.99,19.5,Xbox One,Cancelado
+XBOX-1643,Console Game Pass,10.99,12.4,Xbox Series X/S,Ativo
+XBOX-1644,PC Game Pass,9.99,9.3,Xbox Series X/S,Cancelado
+XBOX-1645,Ultimate,14.99,0.0,PC,Cancelado
+XBOX-1646,Console Game Pass,10.99,55.8,Cloud Gaming,Ativo
+XBOX-1647,Ultimate,14.99,8.5,Xbox One,Cancelado
+XBOX-1648,Ultimate,14.99,21.7,Xbox Series X/S,Ativo
+XBOX-1649,Console Game Pass,10.99,20.8,Xbox One,Ativo
+XBOX-1650,PC Game Pass,9.99,29.6,PC,Ativo
+XBOX-1651,Console Game Pass,10.99,37.2,Xbox Series X/S,Ativo
+XBOX-1652,Console Game Pass,10.99,37.9,PC,Ativo
+XBOX-1653,Ultimate,14.99,16.3,Xbox One,Cancelado
+XBOX-1654,Console Game Pass,10.99,22.5,PC,Ativo
+XBOX-1655,PC Game Pass,9.99,29.2,Xbox One,Ativo
+XBOX-1656,PC Game Pass,9.99,21.3,PC,Ativo
+XBOX-1657,Console Game Pass,10.99,49.1,Xbox One,Cancelado
+XBOX-1658,Ultimate,14.99,32.4,Cloud Gaming,Cancelado
+XBOX-1659,Console Game Pass,10.99,36.0,PC,Ativo
+XBOX-1660,Console Game Pass,10.99,34.9,PC,Ativo
+XBOX-1661,Ultimate,14.99,42.6,Cloud Gaming,Ativo
+XBOX-1662,Ultimate,14.99,27.7,Cloud Gaming,Ativo
+XBOX-1663,PC Game Pass,9.99,5.5,PC,Ativo
+XBOX-1664,PC Game Pass,9.99,31.0,Cloud Gaming,Ativo
+XBOX-1665,PC Game Pass,9.99,15.2,Xbox Series X/S,Ativo
+XBOX-1666,PC Game Pass,9.99,17.1,Xbox One,Ativo
+XBOX-1667,PC Game Pass,9.99,33.8,Xbox One,Ativo
+XBOX-1668,PC Game Pass,9.99,43.6,Xbox One,Ativo
+XBOX-1669,PC Game Pass,9.99,25.3,Xbox Series X/S,Ativo
+XBOX-1670,PC Game Pass,9.99,29.6,Cloud Gaming,Ativo
+XBOX-1671,Ultimate,14.99,50.5,Cloud Gaming,Ativo
+XBOX-1672,PC Game Pass,9.99,28.6,PC,Ativo
+XBOX-1673,Console Game Pass,10.99,64.0,Cloud Gaming,Ativo
+XBOX-1674,Console Game Pass,10.99,33.5,PC,Ativo
+XBOX-1675,Ultimate,14.99,0.0,Xbox Series X/S,Ativo
+XBOX-1676,PC Game Pass,9.99,36.3,Xbox One,Ativo
+XBOX-1677,Console Game Pass,10.99,30.7,Xbox One,Ativo
+XBOX-1678,Ultimate,14.99,44.3,Xbox One,Ativo
+XBOX-1679,Ultimate,14.99,35.1,Cloud Gaming,Ativo
+XBOX-1680,Ultimate,14.99,22.9,PC,Ativo
+XBOX-1681,PC Game Pass,9.99,6.6,PC,Cancelado
+XBOX-1682,PC Game Pass,9.99,21.9,Xbox Series X/S,Cancelado
+XBOX-1683,Ultimate,14.99,12.2,Cloud Gaming,Ativo
+XBOX-1684,Ultimate,14.99,16.3,Xbox Series X/S,Ativo
+XBOX-1685,Console Game Pass,10.99,33.8,PC,Ativo
+XBOX-1686,Console Game Pass,10.99,50.0,PC,Ativo
+XBOX-1687,PC Game Pass,9.99,30.9,Xbox One,Ativo
+XBOX-1688,Ultimate,14.99,7.1,Cloud Gaming,Cancelado
+XBOX-1689,PC Game Pass,9.99,31.7,PC,Ativo
+XBOX-1690,Console Game Pass,10.99,42.9,Xbox One,Cancelado
+XBOX-1691,Console Game Pass,10.99,15.9,Cloud Gaming,Ativo
+XBOX-1692,Console Game Pass,10.99,23.0,Xbox Series X/S,Ativo
+XBOX-1693,PC Game Pass,9.99,25.2,Cloud Gaming,Ativo
+XBOX-1694,PC Game Pass,9.99,13.2,Cloud Gaming,Ativo
+XBOX-1695,Ultimate,14.99,34.7,PC,Ativo
+XBOX-1696,PC Game Pass,9.99,23.2,PC,Ativo
+XBOX-1697,Console Game Pass,10.99,31.3,Cloud Gaming,Ativo
+XBOX-1698,PC Game Pass,9.99,11.7,PC,Ativo
+XBOX-1699,Console Game Pass,10.99,18.4,PC,Ativo
+XBOX-1700,Console Game Pass,10.99,35.8,PC,Ativo
+XBOX-1701,PC Game Pass,9.99,19.4,Xbox One,Ativo
+XBOX-1702,Console Game Pass,10.99,50.9,Xbox One,Ativo
+XBOX-1703,PC Game Pass,9.99,19.0,Cloud Gaming,Ativo
+XBOX-1704,PC Game Pass,9.99,28.4,PC,Ativo
+XBOX-1705,Ultimate,14.99,39.0,Xbox One,Ativo
+XBOX-1706,Console Game Pass,10.99,3.7,Cloud Gaming,Cancelado
+XBOX-1707,Ultimate,14.99,0.0,PC,Cancelado
+XBOX-1708,PC Game Pass,9.99,2.1,Xbox Series X/S,Cancelado
+XBOX-1709,Ultimate,14.99,43.9,PC,Ativo
+XBOX-1710,Ultimate,14.99,16.7,PC,Cancelado
+XBOX-1711,Console Game Pass,10.99,63.4,Xbox One,Ativo
+XBOX-1712,Console Game Pass,10.99,16.5,Cloud Gaming,Ativo
+XBOX-1713,Console Game Pass,10.99,27.8,Cloud Gaming,Ativo
+XBOX-1714,Console Game Pass,10.99,48.1,Xbox One,Ativo
+XBOX-1715,Ultimate,14.99,55.1,PC,Ativo
+XBOX-1716,Ultimate,14.99,55.9,Xbox Series X/S,Cancelado
+XBOX-1717,Ultimate,14.99,43.1,PC,Ativo
+XBOX-1718,PC Game Pass,9.99,40.4,PC,Ativo
+XBOX-1719,Ultimate,14.99,33.9,Xbox Series X/S,Ativo
+XBOX-1720,Ultimate,14.99,36.7,Xbox One,Cancelado
+XBOX-1721,PC Game Pass,9.99,16.7,Cloud Gaming,Ativo
+XBOX-1722,PC Game Pass,9.99,12.7,Xbox One,Cancelado
+XBOX-1723,Ultimate,14.99,24.9,Xbox One,Ativo
+XBOX-1724,Console Game Pass,10.99,22.4,PC,Ativo
+XBOX-1725,Ultimate,14.99,18.2,Cloud Gaming,Ativo
+XBOX-1726,PC Game Pass,9.99,35.4,Cloud Gaming,Cancelado
+XBOX-1727,Ultimate,14.99,39.3,Xbox One,Ativo
+XBOX-1728,PC Game Pass,9.99,26.3,Xbox Series X/S,Ativo
+XBOX-1729,PC Game Pass,9.99,47.2,Xbox One,Ativo
+XBOX-1730,PC Game Pass,9.99,7.9,Xbox Series X/S,Ativo
+XBOX-1731,Ultimate,14.99,22.1,Cloud Gaming,Ativo
+XBOX-1732,Ultimate,14.99,14.2,Xbox One,Ativo
+XBOX-1733,Console Game Pass,10.99,0.0,PC,Ativo
+XBOX-1734,Console Game Pass,10.99,23.8,Xbox One,Ativo
+XBOX-1735,Ultimate,14.99,23.2,Cloud Gaming,Ativo
+XBOX-1736,Console Game Pass,10.99,47.7,PC,Ativo
+XBOX-1737,Ultimate,14.99,34.5,PC,Ativo
+XBOX-1738,Console Game Pass,10.99,9.6,Xbox Series X/S,Ativo
+XBOX-1739,Console Game Pass,10.99,52.8,PC,Ativo
+XBOX-1740,Console Game Pass,10.99,43.3,PC,Cancelado
+XBOX-1741,Console Game Pass,10.99,33.7,Xbox One,Ativo
+XBOX-1742,Ultimate,14.99,21.6,Cloud Gaming,Cancelado
+XBOX-1743,Console Game Pass,10.99,10.6,Xbox Series X/S,Ativo
+XBOX-1744,PC Game Pass,9.99,19.4,Xbox One,Ativo
+XBOX-1745,Ultimate,14.99,41.3,PC,Ativo
+XBOX-1746,Console Game Pass,10.99,53.3,PC,Ativo
+XBOX-1747,Console Game Pass,10.99,48.1,Xbox Series X/S,Ativo
+XBOX-1748,Ultimate,14.99,17.7,Cloud Gaming,Ativo
+XBOX-1749,Ultimate,14.99,8.2,Xbox Series X/S,Ativo
+XBOX-1750,PC Game Pass,9.99,27.1,Xbox One,Ativo
+XBOX-1751,Ultimate,14.99,0.0,Xbox Series X/S,Ativo
+XBOX-1752,Ultimate,14.99,29.8,PC,Ativo
+XBOX-1753,Console Game Pass,10.99,22.8,Xbox One,Ativo
+XBOX-1754,PC Game Pass,9.99,18.0,PC,Ativo
+XBOX-1755,Ultimate,14.99,1.1,Cloud Gaming,Cancelado
+XBOX-1756,Ultimate,14.99,32.7,PC,Ativo
+XBOX-1757,Console Game Pass,10.99,17.0,PC,Ativo
+XBOX-1758,Ultimate,14.99,7.5,Xbox Series X/S,Cancelado
+XBOX-1759,Ultimate,14.99,0.0,PC,Ativo
+XBOX-1760,PC Game Pass,9.99,24.6,Xbox One,Ativo
+XBOX-1761,Console Game Pass,10.99,51.6,Xbox One,Ativo
+XBOX-1762,PC Game Pass,9.99,49.9,Cloud Gaming,Ativo
+XBOX-1763,Ultimate,14.99,18.1,Xbox One,Ativo
+XBOX-1764,PC Game Pass,9.99,16.0,Xbox Series X/S,Cancelado
+XBOX-1765,Console Game Pass,10.99,32.0,Cloud Gaming,Ativo
+XBOX-1766,Ultimate,14.99,10.0,Xbox One,Ativo
+XBOX-1767,Ultimate,14.99,29.5,Xbox Series X/S,Ativo
+XBOX-1768,Console Game Pass,10.99,36.5,Xbox One,Ativo
+XBOX-1769,Ultimate,14.99,43.4,Xbox One,Ativo
+XBOX-1770,PC Game Pass,9.99,23.5,PC,Ativo
+XBOX-1771,Ultimate,14.99,21.9,Xbox One,Ativo
+XBOX-1772,PC Game Pass,9.99,11.8,Xbox One,Ativo
+XBOX-1773,Console Game Pass,10.99,12.6,Xbox Series X/S,Ativo
+XBOX-1774,Ultimate,14.99,21.6,Xbox Series X/S,Ativo
+XBOX-1775,PC Game Pass,9.99,30.5,PC,Ativo
+XBOX-1776,PC Game Pass,9.99,38.7,Xbox One,Ativo
+XBOX-1777,Ultimate,14.99,13.0,PC,Ativo
+XBOX-1778,Ultimate,14.99,47.4,Xbox One,Ativo
+XBOX-1779,Ultimate,14.99,20.9,Cloud Gaming,Ativo
+XBOX-1780,Ultimate,14.99,24.7,Cloud Gaming,Ativo
+XBOX-1781,Console Game Pass,10.99,13.8,PC,Ativo
+XBOX-1782,PC Game Pass,9.99,0.0,PC,Cancelado
+XBOX-1783,Console Game Pass,10.99,38.3,PC,Ativo
+XBOX-1784,PC Game Pass,9.99,36.1,Xbox Series X/S,Ativo
+XBOX-1785,Ultimate,14.99,20.8,Xbox Series X/S,Ativo
+XBOX-1786,Console Game Pass,10.99,26.0,Xbox Series X/S,Ativo
+XBOX-1787,Console Game Pass,10.99,32.7,PC,Cancelado
+XBOX-1788,Console Game Pass,10.99,1.6,Xbox One,Cancelado
+XBOX-1789,Ultimate,14.99,17.1,Cloud Gaming,Ativo
+XBOX-1790,PC Game Pass,9.99,36.9,PC,Ativo
+XBOX-1791,Console Game Pass,10.99,6.2,Xbox Series X/S,Cancelado
+XBOX-1792,Console Game Pass,10.99,29.4,Xbox Series X/S,Ativo
+XBOX-1793,Ultimate,14.99,4.7,PC,Cancelado
+XBOX-1794,PC Game Pass,9.99,32.0,PC,Ativo
+XBOX-1795,Ultimate,14.99,24.5,Xbox Series X/S,Cancelado
+XBOX-1796,Ultimate,14.99,0.8,Xbox One,Ativo
+XBOX-1797,Console Game Pass,10.99,42.5,Xbox Series X/S,Ativo
+XBOX-1798,Ultimate,14.99,14.0,Xbox Series X/S,Ativo
+XBOX-1799,Ultimate,14.99,12.8,PC,Ativo
+XBOX-1800,Ultimate,14.99,28.0,Xbox One,Ativo
+XBOX-1801,PC Game Pass,9.99,42.2,Xbox Series X/S,Ativo
+XBOX-1802,Console Game Pass,10.99,9.8,Xbox Series X/S,Ativo
+XBOX-1803,Ultimate,14.99,25.9,Cloud Gaming,Ativo
+XBOX-1804,Console Game Pass,10.99,31.4,PC,Cancelado
+XBOX-1805,Ultimate,14.99,35.4,Cloud Gaming,Ativo
+XBOX-1806,Ultimate,14.99,27.6,Cloud Gaming,Ativo
+XBOX-1807,Ultimate,14.99,19.5,Xbox Series X/S,Ativo
+XBOX-1808,Console Game Pass,10.99,12.6,PC,Ativo
+XBOX-1809,PC Game Pass,9.99,26.3,Xbox One,Ativo
+XBOX-1810,Ultimate,14.99,8.9,Xbox Series X/S,Ativo
+XBOX-1811,Ultimate,14.99,0.0,Xbox One,Cancelado
+XBOX-1812,PC Game Pass,9.99,31.5,Xbox One,Ativo
+XBOX-1813,Ultimate,14.99,38.6,PC,Ativo
+XBOX-1814,Ultimate,14.99,0.0,Cloud Gaming,Ativo
+XBOX-1815,Console Game Pass,10.99,9.9,PC,Cancelado
+XBOX-1816,Console Game Pass,10.99,34.3,Xbox One,Ativo
+XBOX-1817,Console Game Pass,10.99,55.9,Xbox Series X/S,Ativo
+XBOX-1818,PC Game Pass,9.99,25.3,Xbox One,Ativo
+XBOX-1819,Console Game Pass,10.99,14.1,Xbox Series X/S,Ativo
+XBOX-1820,Ultimate,14.99,22.3,Xbox Series X/S,Cancelado
+XBOX-1821,PC Game Pass,9.99,45.6,PC,Ativo
+XBOX-1822,Console Game Pass,10.99,15.3,Xbox One,Cancelado
+XBOX-1823,Console Game Pass,10.99,13.0,Cloud Gaming,Cancelado
+XBOX-1824,Console Game Pass,10.99,17.8,Xbox One,Ativo
+XBOX-1825,Ultimate,14.99,10.7,Xbox One,Ativo
+XBOX-1826,Console Game Pass,10.99,26.8,Cloud Gaming,Ativo
+XBOX-1827,Console Game Pass,10.99,49.4,PC,Ativo
+XBOX-1828,Ultimate,14.99,29.8,Xbox One,Ativo
+XBOX-1829,Console Game Pass,10.99,21.2,Xbox One,Ativo
+XBOX-1830,PC Game Pass,9.99,20.6,Xbox Series X/S,Ativo
+XBOX-1831,Console Game Pass,10.99,1.6,Xbox One,Cancelado
+XBOX-1832,PC Game Pass,9.99,38.2,Cloud Gaming,Ativo
+XBOX-1833,PC Game Pass,9.99,23.8,Xbox Series X/S,Ativo
+XBOX-1834,Console Game Pass,10.99,22.3,PC,Ativo
+XBOX-1835,Console Game Pass,10.99,72.9,Xbox Series X/S,Ativo
+XBOX-1836,Ultimate,14.99,29.5,Cloud Gaming,Ativo
+XBOX-1837,Console Game Pass,10.99,13.7,Cloud Gaming,Cancelado
+XBOX-1838,Console Game Pass,10.99,18.6,Xbox Series X/S,Ativo
+XBOX-1839,Ultimate,14.99,42.2,PC,Ativo
+XBOX-1840,PC Game Pass,9.99,26.7,Xbox Series X/S,Ativo
+XBOX-1841,Ultimate,14.99,3.4,PC,Cancelado
+XBOX-1842,PC Game Pass,9.99,38.8,Xbox Series X/S,Ativo
+XBOX-1843,Ultimate,14.99,15.0,Cloud Gaming,Ativo
+XBOX-1844,PC Game Pass,9.99,53.1,Xbox One,Ativo
+XBOX-1845,Console Game Pass,10.99,41.2,Xbox One,Ativo
+XBOX-1846,PC Game Pass,9.99,18.3,PC,Ativo
+XBOX-1847,Ultimate,14.99,44.2,PC,Ativo
+XBOX-1848,Console Game Pass,10.99,26.0,PC,Ativo
+XBOX-1849,Console Game Pass,10.99,37.8,Cloud Gaming,Ativo
+XBOX-1850,PC Game Pass,9.99,32.3,Xbox Series X/S,Ativo
+XBOX-1851,Ultimate,14.99,12.3,Cloud Gaming,Ativo
+XBOX-1852,PC Game Pass,9.99,15.3,Xbox One,Ativo
+XBOX-1853,Ultimate,14.99,40.4,PC,Ativo
+XBOX-1854,PC Game Pass,9.99,20.0,Xbox Series X/S,Ativo
+XBOX-1855,PC Game Pass,9.99,18.9,Xbox One,Cancelado
+XBOX-1856,PC Game Pass,9.99,10.7,Xbox One,Ativo
+XBOX-1857,Console Game Pass,10.99,31.4,Xbox One,Ativo
+XBOX-1858,Console Game Pass,10.99,55.9,Cloud Gaming,Ativo
+XBOX-1859,PC Game Pass,9.99,9.0,PC,Ativo
+XBOX-1860,Ultimate,14.99,25.4,Xbox One,Ativo
+XBOX-1861,Console Game Pass,10.99,46.2,PC,Ativo
+XBOX-1862,Console Game Pass,10.99,23.8,Cloud Gaming,Ativo
+XBOX-1863,Console Game Pass,10.99,31.8,Xbox One,Cancelado
+XBOX-1864,Console Game Pass,10.99,9.1,Cloud Gaming,Cancelado
+XBOX-1865,Console Game Pass,10.99,31.4,Cloud Gaming,Ativo
+XBOX-1866,PC Game Pass,9.99,22.2,PC,Cancelado
+XBOX-1867,PC Game Pass,9.99,39.8,Xbox One,Ativo
+XBOX-1868,Ultimate,14.99,42.8,Cloud Gaming,Ativo
+XBOX-1869,Ultimate,14.99,63.8,Xbox One,Ativo
+XBOX-1870,Console Game Pass,10.99,33.7,PC,Ativo
+XBOX-1871,PC Game Pass,9.99,29.9,Cloud Gaming,Ativo
+XBOX-1872,Ultimate,14.99,27.9,PC,Ativo
+XBOX-1873,Console Game Pass,10.99,19.7,Xbox One,Cancelado
+XBOX-1874,PC Game Pass,9.99,30.1,Xbox One,Ativo
+XBOX-1875,PC Game Pass,9.99,20.6,PC,Ativo
+XBOX-1876,Ultimate,14.99,27.5,Xbox Series X/S,Ativo
+XBOX-1877,Ultimate,14.99,44.8,Cloud Gaming,Ativo
+XBOX-1878,PC Game Pass,9.99,9.9,Xbox One,Cancelado
+XBOX-1879,PC Game Pass,9.99,42.1,Xbox One,Ativo
+XBOX-1880,PC Game Pass,9.99,44.8,Cloud Gaming,Ativo
+XBOX-1881,Ultimate,14.99,23.2,PC,Ativo
+XBOX-1882,PC Game Pass,9.99,0.0,PC,Ativo
+XBOX-1883,PC Game Pass,9.99,15.9,PC,Ativo
+XBOX-1884,Ultimate,14.99,44.5,Xbox Series X/S,Ativo
+XBOX-1885,PC Game Pass,9.99,24.7,Xbox Series X/S,Ativo
+XBOX-1886,Ultimate,14.99,10.0,Xbox One,Ativo
+XBOX-1887,PC Game Pass,9.99,17.4,PC,Ativo
+XBOX-1888,PC Game Pass,9.99,37.6,Cloud Gaming,Ativo
+XBOX-1889,PC Game Pass,9.99,33.2,Xbox One,Ativo
+XBOX-1890,Ultimate,14.99,21.4,Cloud Gaming,Ativo
+XBOX-1891,Ultimate,14.99,19.5,Xbox One,Ativo
+XBOX-1892,Ultimate,14.99,19.1,Xbox Series X/S,Cancelado
+XBOX-1893,Console Game Pass,10.99,11.2,Xbox One,Ativo
+XBOX-1894,Ultimate,14.99,49.2,Xbox Series X/S,Ativo
+XBOX-1895,PC Game Pass,9.99,20.2,Xbox One,Ativo
+XBOX-1896,PC Game Pass,9.99,43.3,PC,Ativo
+XBOX-1897,Ultimate,14.99,47.8,Cloud Gaming,Ativo
+XBOX-1898,PC Game Pass,9.99,40.0,PC,Ativo
+XBOX-1899,PC Game Pass,9.99,18.5,Xbox One,Ativo
+XBOX-1900,PC Game Pass,9.99,31.1,Xbox One,Ativo
+XBOX-1901,PC Game Pass,9.99,24.6,Xbox One,Ativo
+XBOX-1902,PC Game Pass,9.99,11.4,Xbox Series X/S,Ativo
+XBOX-1903,Console Game Pass,10.99,29.9,Cloud Gaming,Ativo
+XBOX-1904,Console Game Pass,10.99,7.3,Cloud Gaming,Cancelado
+XBOX-1905,Ultimate,14.99,42.8,Xbox One,Ativo
+XBOX-1906,Ultimate,14.99,18.0,Xbox One,Ativo
+XBOX-1907,Console Game Pass,10.99,28.0,Xbox Series X/S,Ativo
+XBOX-1908,PC Game Pass,9.99,29.2,PC,Ativo
+XBOX-1909,Console Game Pass,10.99,21.1,PC,Ativo
+XBOX-1910,Console Game Pass,10.99,33.8,Cloud Gaming,Cancelado
+XBOX-1911,PC Game Pass,9.99,17.9,Xbox Series X/S,Ativo
+XBOX-1912,Ultimate,14.99,38.1,Xbox One,Ativo
+XBOX-1913,Console Game Pass,10.99,4.8,Cloud Gaming,Ativo
+XBOX-1914,Console Game Pass,10.99,26.9,Xbox Series X/S,Ativo
+XBOX-1915,Console Game Pass,10.99,54.1,PC,Ativo
+XBOX-1916,PC Game Pass,9.99,10.0,Xbox Series X/S,Ativo
+XBOX-1917,Ultimate,14.99,14.8,PC,Cancelado
+XBOX-1918,Ultimate,14.99,32.7,Xbox Series X/S,Ativo
+XBOX-1919,PC Game Pass,9.99,27.7,Cloud Gaming,Ativo
+XBOX-1920,Ultimate,14.99,30.3,PC,Ativo
+XBOX-1921,Console Game Pass,10.99,32.3,Cloud Gaming,Ativo
+XBOX-1922,Ultimate,14.99,34.5,Cloud Gaming,Ativo
+XBOX-1923,Ultimate,14.99,41.6,PC,Cancelado
+XBOX-1924,Console Game Pass,10.99,31.1,PC,Ativo
+XBOX-1925,PC Game Pass,9.99,21.4,Xbox One,Ativo
+XBOX-1926,PC Game Pass,9.99,35.1,Xbox One,Ativo
+XBOX-1927,Console Game Pass,10.99,53.5,Xbox One,Ativo
+XBOX-1928,Ultimate,14.99,23.0,Cloud Gaming,Cancelado
+XBOX-1929,PC Game Pass,9.99,10.4,Cloud Gaming,Ativo
+XBOX-1930,PC Game Pass,9.99,41.6,Xbox One,Ativo
+XBOX-1931,Ultimate,14.99,23.2,Cloud Gaming,Ativo
+XBOX-1932,Ultimate,14.99,0.0,Cloud Gaming,Cancelado
+XBOX-1933,Console Game Pass,10.99,37.7,PC,Ativo
+XBOX-1934,PC Game Pass,9.99,17.0,PC,Ativo
+XBOX-1935,PC Game Pass,9.99,23.6,Cloud Gaming,Cancelado
+XBOX-1936,PC Game Pass,9.99,30.0,Xbox One,Ativo
+XBOX-1937,Ultimate,14.99,27.9,Xbox Series X/S,Ativo
+XBOX-1938,PC Game Pass,9.99,35.6,Xbox One,Ativo
+XBOX-1939,Console Game Pass,10.99,18.5,Xbox Series X/S,Cancelado
+XBOX-1940,PC Game Pass,9.99,32.7,Xbox One,Ativo
+XBOX-1941,Console Game Pass,10.99,21.1,PC,Ativo
+XBOX-1942,Ultimate,14.99,36.1,Cloud Gaming,Ativo
+XBOX-1943,Ultimate,14.99,34.2,Cloud Gaming,Ativo
+XBOX-1944,PC Game Pass,9.99,11.0,PC,Ativo
+XBOX-1945,PC Game Pass,9.99,41.3,Xbox Series X/S,Cancelado
+XBOX-1946,PC Game Pass,9.99,17.0,Xbox Series X/S,Ativo
+XBOX-1947,Ultimate,14.99,37.1,Xbox Series X/S,Ativo
+XBOX-1948,Ultimate,14.99,30.5,PC,Ativo
+XBOX-1949,Console Game Pass,10.99,52.6,Xbox Series X/S,Ativo
+XBOX-1950,Ultimate,14.99,21.6,PC,Ativo
+XBOX-1951,Ultimate,14.99,19.8,Xbox One,Ativo
+XBOX-1952,PC Game Pass,9.99,24.7,Xbox One,Ativo
+XBOX-1953,Ultimate,14.99,20.5,PC,Ativo
+XBOX-1954,Console Game Pass,10.99,37.0,Cloud Gaming,Ativo
+XBOX-1955,Console Game Pass,10.99,0.8,Xbox One,Cancelado
+XBOX-1956,Console Game Pass,10.99,9.2,Xbox Series X/S,Cancelado
+XBOX-1957,PC Game Pass,9.99,9.0,PC,Ativo
+XBOX-1958,PC Game Pass,9.99,39.3,Xbox Series X/S,Ativo
+XBOX-1959,Ultimate,14.99,50.7,Xbox Series X/S,Ativo
+XBOX-1960,PC Game Pass,9.99,23.4,Cloud Gaming,Ativo
+XBOX-1961,Ultimate,14.99,22.5,Xbox Series X/S,Ativo
+XBOX-1962,PC Game Pass,9.99,26.1,Cloud Gaming,Ativo
+XBOX-1963,Console Game Pass,10.99,42.4,Xbox One,Ativo
+XBOX-1964,PC Game Pass,9.99,11.1,PC,Cancelado
+XBOX-1965,Console Game Pass,10.99,28.6,Xbox Series X/S,Ativo
+XBOX-1966,Ultimate,14.99,39.6,PC,Ativo
+XBOX-1967,PC Game Pass,9.99,32.5,Xbox Series X/S,Ativo
+XBOX-1968,Console Game Pass,10.99,27.8,PC,Ativo
+XBOX-1969,Console Game Pass,10.99,40.0,Xbox Series X/S,Ativo
+XBOX-1970,Ultimate,14.99,0.0,Xbox Series X/S,Ativo
+XBOX-1971,Ultimate,14.99,35.2,Xbox Series X/S,Ativo
+XBOX-1972,Ultimate,14.99,15.2,Xbox Series X/S,Ativo
+XBOX-1973,PC Game Pass,9.99,0.0,Xbox Series X/S,Cancelado
+XBOX-1974,PC Game Pass,9.99,32.7,Xbox Series X/S,Ativo
+XBOX-1975,PC Game Pass,9.99,45.6,Xbox Series X/S,Ativo
+XBOX-1976,Console Game Pass,10.99,22.9,Xbox Series X/S,Ativo
+XBOX-1977,PC Game Pass,9.99,39.3,Xbox Series X/S,Ativo
+XBOX-1978,Console Game Pass,10.99,49.2,PC,Ativo
+XBOX-1979,Console Game Pass,10.99,44.7,Cloud Gaming,Ativo
+XBOX-1980,Console Game Pass,10.99,49.6,Xbox Series X/S,Ativo
+XBOX-1981,Ultimate,14.99,36.1,Cloud Gaming,Ativo
+XBOX-1982,PC Game Pass,9.99,26.1,Xbox Series X/S,Ativo
+XBOX-1983,PC Game Pass,9.99,1.0,Xbox Series X/S,Ativo
+XBOX-1984,Ultimate,14.99,21.3,PC,Ativo
+XBOX-1985,Console Game Pass,10.99,12.4,Xbox One,Cancelado
+XBOX-1986,Ultimate,14.99,57.6,Xbox One,Ativo
+XBOX-1987,Console Game Pass,10.99,22.4,PC,Ativo
+XBOX-1988,PC Game Pass,9.99,26.8,Cloud Gaming,Ativo
+XBOX-1989,Ultimate,14.99,33.3,Xbox One,Ativo
+XBOX-1990,Ultimate,14.99,25.7,PC,Ativo
+XBOX-1991,Ultimate,14.99,50.4,PC,Ativo
+XBOX-1992,PC Game Pass,9.99,15.7,Xbox One,Ativo
+XBOX-1993,Console Game Pass,10.99,27.9,Cloud Gaming,Ativo
+XBOX-1994,Console Game Pass,10.99,13.9,PC,Ativo
+XBOX-1995,PC Game Pass,9.99,5.2,Xbox Series X/S,Ativo
+XBOX-1996,Ultimate,14.99,15.8,Cloud Gaming,Ativo
+XBOX-1997,PC Game Pass,9.99,24.4,Cloud Gaming,Cancelado
+XBOX-1998,Ultimate,14.99,18.6,Xbox One,Cancelado
+XBOX-1999,Console Game Pass,10.99,14.6,Xbox One,Ativo
